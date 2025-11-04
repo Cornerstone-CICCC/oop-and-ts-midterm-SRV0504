@@ -1,16 +1,13 @@
 {
-  "name": "oop-ts-lab-1",
+  "name": "midterm-rebuild",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "live-server src --open=./index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+  "type": "commonjs"
 }
